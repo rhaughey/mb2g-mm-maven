@@ -4,7 +4,6 @@
 /build/www/**
 /src/test/javascript/coverage/
 /src/test/javascript/PhantomJS*/
-/target/**
 
 ######################
 # Node
@@ -70,6 +69,7 @@ local.properties
 ######################
 /log/
 /target/
+.flattened-pom.xml
 
 ######################
 # Gradle
